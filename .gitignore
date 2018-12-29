@@ -16,10 +16,8 @@ target/
 *.ipr
 *.iml
 *.iws
-
 # logs #
 logs
-
 # temp ignore
 *.log
 *.cache
